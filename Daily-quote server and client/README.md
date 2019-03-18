@@ -1,7 +1,6 @@
-Simple program of server and client where server sent a good quote to the connected client immediately after the connection(as welcoming).
+A simple program of server and client where the server sent a good quote to the connected client immediately after the connection(as welcoming).
 
-
-Multiple Clients are handled using java multithreading concept,Used UDP datagramsockets and txt where quotes are stored
+Multiple Clients are handled using java multithreading concept, Used UDP datagram sockets and text where quotes are stored
 
 ## Output of Clients and Server:
 ![Screenshot (660)](https://user-images.githubusercontent.com/25131591/54527654-8d8e0280-49a0-11e9-828f-dd8f1b231bc1.png)
